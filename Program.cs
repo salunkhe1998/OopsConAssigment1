@@ -36,10 +36,14 @@ namespace OopsConceptClass2
             //add Add(6.7f,5,7.4f);
 
 
-            Animal animal = new Animal();
-            animal.Run();
-            animal = new Lion();
-            animal.Run();
+           // Animal animal = new Animal();
+            //animal.Run();
+           // animal = new Lion();
+            //animal.Run();
+            
+            
+            //StudentDetails obj = new StudentDetails();
+            //obj.StudentAge();
         }
     }
 }
