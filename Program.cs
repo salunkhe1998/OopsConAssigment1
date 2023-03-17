@@ -44,6 +44,17 @@ namespace OopsConceptClass2
             
             //StudentDetails obj = new StudentDetails();
             //obj.StudentAge();
+            
+            //Dog d1 = new Dog();
+            //d1.eat();
+            //d1.bark();
+
+            BabyDog d1 = new BabyDog();
+            d1.eat();
+            d1.bark();
+            d1.weep();
+
+
         }
     }
 }
